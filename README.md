@@ -22,10 +22,6 @@ A machine learning model is developed for recommendation of movie genre based on
 As mentioned in *Introduction* the data set consists of attibutes : **Age**,**Gender**,**Actor**,**Actress**,**Director**.
 For the sake of simplificty of model all the actors, actresses and directors are assigned with distinct numerical codes. The codes of these attributes can be found in the *Data_Sets* File.
 
-![Data Visualization](DataFrame.png)
-
-Fig : Data Visualization
-
 ---
 ## **Help Development**
 You are welcome to submit pull requests, issues and more!
